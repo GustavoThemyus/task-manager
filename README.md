@@ -23,6 +23,6 @@
   
 ### 🌐 Live Demo
 #### The project is deployed and can be accessed at:  
-👉 [Run the project](task-manager-six-omega-11.vercel.app)  
+👉 [Run the project](https://task-manager-six-omega-11.vercel.app/)  
   
 #### Try adding, viewing, and deleting tasks directly in your browser, no local setup required.
